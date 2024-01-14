@@ -13,7 +13,7 @@ npm i
 ```
 -> To start the bot
 ```bash
-node main.js
+node index.js
 ```
 
 <h2>📷 Bot Örnek Resmileri</h2>
